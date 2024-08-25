@@ -1,3 +1,4 @@
+import styled from "styled-components";
 import { Link } from "react-router-dom";
 import pokemonBg from "../assets/pokedex.png";
 export const Home = () => {
